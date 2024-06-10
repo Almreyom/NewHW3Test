@@ -1,10 +1,11 @@
+package org.example;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        PersonRecord person1 = new PERSON("Sara" , 24 , "Riyadh");
-        PersonRecord person3 = new PERSON("Khalid", 24 , "Jeddah");
+        PersonRecord person1 = new Person("Sara" , 24 , "Riyadh");
+        PersonRecord person3 = new Person("Khalid", 24 , "Jeddah");
 
         // Displaying details of Person objects
         System.out.println("Details of Person 1:");

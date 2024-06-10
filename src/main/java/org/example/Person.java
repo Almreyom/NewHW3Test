@@ -1,13 +1,13 @@
+package org.example;
 
-
-public class PERSON extends PersonRecord{
+public class Person extends PersonRecord{
 
     private String name;
     private  int age;
     private  String address;
 
 
-    public PERSON(String name, int age, String address) {
+    public Person(String name, int age, String address) {
         setName(name);
         setAge(age);
         this.address = address;

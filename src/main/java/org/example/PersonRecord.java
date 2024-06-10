@@ -1,3 +1,4 @@
+package org.example;
 
 abstract class PersonRecord {
 

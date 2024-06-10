@@ -1,5 +1,6 @@
+package org.example;
 
-public class Student extends PERSON implements ComparableById{
+public class Student extends Person implements ComparableById{
 
 
     private int studentId;
