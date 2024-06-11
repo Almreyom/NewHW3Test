@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-public class TestingClass {
-    private Person p1;
-    private Student s1;
+public class TestingClass{
+//    private Person p1;
+//    private Student s1;
 
 
     @BeforeAll
