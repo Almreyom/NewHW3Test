@@ -16,7 +16,7 @@ public class TestingClass {
 
     @Test
     public void testPerson() {
-        String name = "Ali";
+        String name = "Reyom";
         int age = 23;
         String address = "Riyadh";
 
