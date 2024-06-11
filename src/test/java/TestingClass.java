@@ -21,7 +21,7 @@ public class TestingClass {
         String address = "Riyadh";
 
         String actual = "Name: " + name + ", Age: " + age + ", Address: " + address;
-        String expected = "Name: Ali, Age: 23, Address: Riyadh";
+        String expected = "Name: Reyom, Age: 23, Address: Riyadh";
         Assertions.assertEquals(expected, actual);
     }
 
